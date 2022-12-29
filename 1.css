@@ -1,0 +1,618 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920__1 {
+	position: absolute;
+	width: 1920px;
+	height: 1002px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#beautiful-shot-forest-with-tal {
+	opacity: 0.95;
+	position: absolute;
+	width: 1921px;
+	height: 1265px;
+	left: -1px;
+	top: 0px;
+	overflow: visible;
+}
+
+#Weather_Report {
+	left: 65px;
+	top: 73px;
+	position: absolute;
+	overflow: visible;
+	width: 383px;
+	white-space: nowrap;
+	line-height: 69px;
+	margin-top: -5px;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 59px;
+	color: rgba(255,255,255,0.871);
+	letter-spacing: -0.15px;
+}
+#Rectangle_3 {
+	fill: rgba(164,240,252,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 395px;
+	height: 485px;
+	left: 52px;
+	top: 215px;
+}
+#Kolkata {
+	left: 55px;
+	top: 221px;
+	position: absolute;
+	overflow: visible;
+	width: 396px;
+	white-space: nowrap;
+	line-height: 156px;
+	margin-top: -55.5px;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 45px;
+	color: rgba(0,0,0,0.871);
+	letter-spacing: -0.15px;
+}
+#City {
+	transform: matrix(1,0,0,1,609,152) rotate(0deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 1189px;
+	height: 99px;
+	line-height: 159px;
+	margin-top: -49.5px;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 60px;
+	color: rgba(255,255,255,0.871);
+	letter-spacing: -0.15px;
+}
+#Kolkata_is_the_capital_of_the_ {
+	left: 623px;
+	top: 281px;
+	position: absolute;
+	overflow: visible;
+	width: 1162px;
+	height: 585px;
+	line-height: 35px;
+	margin-top: -5px;
+	text-align: center;
+	font-family: Californian FB;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,0.871);
+	letter-spacing: 0.3px;
+}
+#Rectangle_4 {
+	fill: rgba(193,247,222,0.871);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 63px;
+	left: 0px;
+	top: 939px;
+}
+#ID26 {
+	left: 69px;
+	top: 305px;
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	height: 128px;
+	line-height: 235px;
+	margin-top: -77.5px;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 80px;
+	color: rgba(0,0,0,0.871);
+	letter-spacing: -0.15px;
+}
+#ID10d {
+	position: absolute;
+	width: 95px;
+	height: 95px;
+	left: 306px;
+	top: 299px;
+	overflow: visible;
+}
+#C {
+	left: 172px;
+	top: 306px;
+	position: absolute;
+	overflow: visible;
+	width: 48px;
+	white-space: nowrap;
+	line-height: 159px;
+	margin-top: -64.5px;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(0,0,0,0.871);
+	letter-spacing: -0.15px;
+}
+#Feels__Like__ {
+	transform: matrix(1,0,0,1,162,338) rotate(0deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 88px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 15px;
+	color: rgba(0,0,0,0.871);
+	letter-spacing: -0.15px;
+}
+#Rain {
+	transform: matrix(1,0,0,1,102,381) rotate(0deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(0,0,0,0.871);
+	letter-spacing: -0.15px;
+}
+#Wind {
+	transform: matrix(1,0,0,1,90,458) rotate(0deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 49px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(0,0,0,0.871);
+	letter-spacing: -0.15px;
+}
+#Humidity {
+	transform: matrix(1,0,0,1,212,458) rotate(0deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 76px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(0,0,0,0.871);
+	letter-spacing: -0.15px;
+}
+#Pressure {
+	transform: matrix(1,0,0,1,90,565) rotate(0deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 76px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(0,0,0,0.871);
+	letter-spacing: -0.15px;
+}
+#Country {
+	transform: matrix(1,0,0,1,337,565) rotate(0deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 76px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(0,0,0,0.871);
+	letter-spacing: -0.15px;
+}
+#Precipation {
+	transform: matrix(1,0,0,1,206,565) rotate(0deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 95px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(0,0,0,0.871);
+	letter-spacing: -0.15px;
+}
+#Visibility {
+	transform: matrix(1,0,0,1,334,458) rotate(0deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 76px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(0,0,0,0.871);
+	letter-spacing: -0.15px;
+}
+#ID7 {
+	transform: matrix(1,0,0,1,82,485) rotate(0deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 38px;
+	height: 33px;
+	text-align: right;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(0,0,0,0.871);
+	letter-spacing: -0.15px;
+}
+#ID7_z {
+	transform: matrix(1,0,0,1,209,485) rotate(0deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 45px;
+	height: 33px;
+	text-align: right;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(0,0,0,0.871);
+	letter-spacing: -0.15px;
+}
+#ID7_ {
+	transform: matrix(1,0,0,1,87,592) rotate(0deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 43px;
+	height: 33px;
+	text-align: right;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(0,0,0,0.871);
+	letter-spacing: -0.15px;
+}
+#IN {
+	transform: matrix(1,0,0,1,351,585) rotate(0deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 43px;
+	height: 33px;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(0,0,0,0.871);
+	letter-spacing: -0.15px;
+}
+#ID15 {
+	transform: matrix(1,0,0,1,210,585) rotate(0deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 43px;
+	height: 33px;
+	text-align: right;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(0,0,0,0.871);
+	letter-spacing: -0.15px;
+}
+#ID7_ba {
+	transform: matrix(1,0,0,1,339,481) rotate(0deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 34px;
+	height: 33px;
+	text-align: right;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(0,0,0,0.871);
+	letter-spacing: -0.15px;
+}
+#Kmhr {
+	transform: matrix(1,0,0,1,122,497) rotate(0deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 44px;
+	height: 19px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 15px;
+	color: rgba(0,0,0,0.871);
+	letter-spacing: -0.15px;
+}
+#mm {
+	transform: matrix(1,0,0,1,258,599) rotate(0deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 44px;
+	height: 19px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 15px;
+	color: rgba(0,0,0,0.871);
+	letter-spacing: -0.15px;
+}
+#N {
+	transform: matrix(1,0,0,1,123,488) rotate(0deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 13px;
+	height: 19px;
+	line-height: 15px;
+	margin-top: -2.5px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 10px;
+	color: rgba(0,0,0,0.871);
+	letter-spacing: -0.15px;
+}
+#percent{
+	transform: matrix(1,0,0,1,256,487) rotate(0deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 13px;
+	height: 19px;
+	line-height: 15px;
+	margin-top: -2.5px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 10px;
+	color: rgba(0,0,0,0.871);
+	letter-spacing: -0.15px;
+}
+#Km {
+	transform: matrix(1,0,0,1,377,487) rotate(0deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 18px;
+	height: 19px;
+	line-height: 15px;
+	margin-top: -2.5px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 10px;
+	color: rgba(0,0,0,0.871);
+	letter-spacing: -0.15px;
+}
+#hPa {
+	transform: matrix(1,0,0,1,135,592) rotate(0deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 18px;
+	height: 19px;
+	line-height: 15px;
+	margin-top: -2.5px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 10px;
+	color: rgba(0,0,0,0.871);
+	letter-spacing: -0.15px;
+}
+#ID20_bb {
+	transform: matrix(1,0,0,1,209,338) rotate(0deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 88px;
+	height: 47px;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(0,0,0,0.871);
+	letter-spacing: -0.15px;
+}
+#ID20_bb {
+	transform: matrix(1,0,0,1,209,338) rotate(0deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 88px;
+	height: 47px;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(0,0,0,0.871);
+	letter-spacing: -0.15px;
+}
+#Icon_awesome-facebook {
+	fill: rgba(0,0,0,1);
+}
+.Icon_awesome-facebook {
+	overflow: visible;
+	position: absolute;
+	width: 34.875px;
+	height: 34.664px;
+	left: 902.338px;
+	top: 948.996px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-instagram {
+	fill: rgba(0,0,0,1);
+}
+.Icon_awesome-instagram {
+	overflow: visible;
+	position: absolute;
+	width: 31.518px;
+	height: 31.511px;
+	left: 992.178px;
+	top: 951.996px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-twitter-square {
+	fill: rgba(0,0,0,1);
+}
+.Icon_awesome-twitter-square {
+	overflow: visible;
+	position: absolute;
+	width: 31.5px;
+	height: 31.5px;
+	left: 1076.906px;
+	top: 951.996px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-github {
+	fill: rgba(0,0,0,1);
+}
+.Icon_awesome-github {
+	overflow: visible;
+	position: absolute;
+	width: 34.875px;
+	height: 34.004px;
+	left: 811.594px;
+	top: 949.996px;
+	transform: matrix(1,0,0,1,0,0);
+}
